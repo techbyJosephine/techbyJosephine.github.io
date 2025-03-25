@@ -21,3 +21,11 @@ header {
   h2 {
     text-align: center;
   }
+  .goofy {
+    text-align: center;
+  }
+  .Coiny {
+    font-family: "Coiny", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
